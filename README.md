@@ -7,7 +7,7 @@
 
 <h2 align="center">Studing this Technologies</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhiiro&layout=donut)](https://github.com/kazuhiiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhiiro&layout=donut)](https://github.com/kazuhiiro/github-readme-stats&theme=tokyonight)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
